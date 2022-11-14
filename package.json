@@ -1,0 +1,19 @@
+{
+  "name": "base36-uuid",
+  "description": "letter universally unique identifier",
+  "version": "0.1.0",
+  "author": {
+    "name": "Jefferson Felix",
+    "url": "https://github.com/jsfelix"
+  },
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "uuid",
+    "unique id",
+    "unique identifier",
+    "uid",
+    "id"
+  ],
+  "license": "MIT"
+}
