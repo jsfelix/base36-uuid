@@ -1,4 +1,4 @@
-import { randomUUID } from "node:crypto";
+const { randomUUID } = require("node:crypto");
 
 const base36UUID = () => {
   const blocks = randomUUID().split("-");
@@ -10,4 +10,4 @@ const base36UUID = () => {
   return letter + uid;
 };
 
-export default base36UUID;
+module.exports = base36UUID;
