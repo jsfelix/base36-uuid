@@ -1,12 +1,17 @@
 {
   "name": "base36-uuid",
   "description": "letter universally unique identifier",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": {
     "name": "Jefferson Felix",
     "url": "https://github.com/jsfelix"
   },
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsfelix/base36-uuid"
+  },
+  "homepage": "https://github.com/jsfelix/base36-uuid#readme",
   "keywords": [
     "uuid",
     "unique id",
